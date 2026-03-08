@@ -1,5 +1,7 @@
 # Rayeva AI – Sustainable Commerce Platform
 
+#Demo Video: https://drive.google.com/file/d/1sLPF2mbe3NSImURpgqmSO9PY5-UJ4DPl/view?usp=drive_link
+
 ## Architecture Overview
 
 This application is built as a full-stack system using **Express** (Backend) and **React** (Frontend), integrated with **Gemini AI** for intelligent automation.
